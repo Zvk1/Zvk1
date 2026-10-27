@@ -1,25 +1,5 @@
 <div align="center">
-
-# Zaki Lorenzo V. Boongaling
-
-### Computer Engineering Student · Software, Networks & Cybersecurity
-
-<a href="https://github.com/Zvk1">
-  <img src="https://img.shields.io/badge/GitHub-Zvk1-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/zak1-boongaling">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
-</a>
-<a href="mailto:zaki.bnglng@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20hello-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
-</a>
-
-</div>
-
-<div align="center">
-
-> I enjoy learning how systems work, solving technical problems, and building practical digital experiences.
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1e3a8a&height=210&section=header&text=Zaki%20Lorenzo%20V.%20Boongaling&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Software%2C%20Networks%20%26%20Cybersecurity&descAlignY=61&descSize=16" alt="Zaki Lorenzo V. Boongaling — Computer Engineering Student">
 </div>
 
 ---
@@ -28,7 +8,7 @@
 
 I am a Computer Engineering student at the **Technological Institute of the Philippines - Manila**. I am developing my skills through hands-on web development projects and continued learning across software, computer systems, networks, and security.
 
-I am interested in the relationship between hardware and software, and I like exploring how the pieces of a system connect—from an interface a person uses to the network and underlying technology that supports it. My goal is to keep growing as an engineer while building useful, well-considered digital experiences.
+I am interested in software development, networking, and cybersecurity. My goal is to keep growing as an engineer while building useful, well-considered digital experiences.
 
 ## Areas I Explore
 
@@ -36,7 +16,7 @@ I am interested in the relationship between hardware and software, and I like ex
   <tr>
     <td width="50%" valign="top">
       <strong>Software Development</strong><br>
-      I build practical web experiences and continue improving my full-stack development skills.
+      I build practical web experiences and continue improving my development skills.
     </td>
     <td width="50%" valign="top">
       <strong>Networking</strong><br>
@@ -49,8 +29,8 @@ I am interested in the relationship between hardware and software, and I like ex
       I am interested in understanding systems, identifying security considerations, and learning defensive tools.
     </td>
     <td width="50%" valign="top">
-      <strong>Hardware &amp; Software Systems</strong><br>
-      I explore the connection between computer hardware, software, networks, and the people who use them.
+      <strong>Systems &amp; Security</strong><br>
+      I am interested in how software systems operate and how security can be considered in practical environments.
     </td>
   </tr>
 </table>
@@ -64,7 +44,6 @@ I am interested in the relationship between hardware and software, and I like ex
 ![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Full-stack web development](https://img.shields.io/badge/Full--stack%20web%20development-18181B?style=flat-square&logo=stackshare&logoColor=white)
 
 ### Networking & Security
 
@@ -103,7 +82,7 @@ I worked on **The Event Lab**, a student event platform for the Technological In
 
 ## Currently Learning
 
-I am continuing to improve my web development and full-stack development skills while strengthening my understanding of networking and system security. I am also exploring how software, computer systems, and networks work together in practical environments.
+I am continuing to improve my web development skills while strengthening my understanding of networking and system security. I am also learning how to apply these interests in practical software projects.
 
 ## Connect With Me
 
