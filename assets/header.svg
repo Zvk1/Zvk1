@@ -1,21 +1,23 @@
-<svg width="1280" height="240" viewBox="0 0 1280 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+<svg width="1280" height="270" viewBox="0 0 1280 270" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
   <title id="title">Zaki Lorenzo V. Boongaling</title>
   <desc id="description">Computer Engineering Student | Software, Networks &amp; Cybersecurity</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="240" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#111827"/>
-      <stop offset="1" stop-color="#1E3A8A"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset=".55" stop-color="#172554"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
     </linearGradient>
-    <linearGradient id="wave" x1="0" y1="185" x2="1280" y2="220" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#2563EB" stop-opacity=".7"/>
-      <stop offset="1" stop-color="#60A5FA" stop-opacity=".18"/>
+    <linearGradient id="wave" x1="0" y1="200" x2="1280" y2="245" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#93C5FD" stop-opacity=".22"/>
     </linearGradient>
   </defs>
-  <rect width="1280" height="240" rx="12" fill="url(#background)"/>
-  <circle cx="1145" cy="45" r="150" fill="#3B82F6" fill-opacity=".12"/>
-  <circle cx="105" cy="230" r="145" fill="#60A5FA" fill-opacity=".08"/>
-  <path d="M0 178C157 135 273 227 448 190C643 149 718 177 891 160C1044 145 1147 103 1280 138V240H0V178Z" fill="url(#wave)"/>
-  <path d="M0 203C158 170 291 247 471 204C649 161 781 218 947 187C1089 161 1174 161 1280 190V240H0V203Z" fill="#0F172A" fill-opacity=".42"/>
-  <text x="640" y="105" text-anchor="middle" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">Zaki Lorenzo V. Boongaling</text>
-  <text x="640" y="145" text-anchor="middle" fill="#BFDBFE" font-family="Arial, Helvetica, sans-serif" font-size="17">Computer Engineering Student | Software, Networks &amp; Cybersecurity</text>
+  <rect width="1280" height="270" rx="14" fill="url(#background)"/>
+  <circle cx="1140" cy="34" r="164" fill="#60A5FA" fill-opacity=".10"/>
+  <circle cx="112" cy="272" r="155" fill="#60A5FA" fill-opacity=".07"/>
+  <path d="M0 212C153 171 287 260 464 219C638 179 759 203 921 187C1057 173 1165 126 1280 158V270H0V212Z" fill="url(#wave)"/>
+  <path d="M0 236C177 204 300 274 487 232C651 195 786 250 947 219C1090 191 1180 193 1280 220V270H0V236Z" fill="#0F172A" fill-opacity=".38"/>
+  <text x="640" y="77" text-anchor="middle" fill="#93C5FD" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">PORTFOLIO</text>
+  <text x="640" y="135" text-anchor="middle" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700">Zaki Lorenzo V. Boongaling</text>
+  <text x="640" y="174" text-anchor="middle" fill="#DBEAFE" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="500">Computer Engineering Student  •  Software, Networks &amp; Cybersecurity</text>
 </svg>

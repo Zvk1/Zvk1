@@ -14,23 +14,17 @@ I am interested in software development, networking, and cybersecurity. My goal 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top">
       <strong>Software Development</strong><br>
       I build practical web experiences and continue improving my development skills.
     </td>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top">
       <strong>Networking</strong><br>
       I study how systems communicate through TCP/IP, VLANs, routing, and switching.
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top">
       <strong>Cybersecurity</strong><br>
       I am interested in understanding systems, identifying security considerations, and learning defensive tools.
-    </td>
-    <td width="50%" valign="top">
-      <strong>Systems &amp; Security</strong><br>
-      I am interested in how software systems operate and how security can be considered in practical environments.
     </td>
   </tr>
 </table>
