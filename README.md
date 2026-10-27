@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1e3a8a&height=210&section=header&text=Zaki%20Lorenzo%20V.%20Boongaling&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Software%2C%20Networks%20%26%20Cybersecurity&descAlignY=61&descSize=16" alt="Zaki Lorenzo V. Boongaling — Computer Engineering Student">
+  <img src="assets/header.svg" alt="Zaki Lorenzo V. Boongaling — Computer Engineering Student">
 </div>
 
 ---
